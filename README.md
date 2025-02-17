@@ -1,21 +1,16 @@
-# Repositório de Exercícios de Fixação em Java
+# Exercícios de Programação Modular em Java
 
-Repositório de exercícios de fixação em Java! Aqui, estou documentando minha jornada de aprendizado e prática na linguagem Java, resolvendo exercícios para consolidar meus conhecimentos.
+Este repositório contém exercícios desenvolvidos para a fixação do conceito de programação modular na linguagem Java. O objetivo é praticar a decomposição de programas em funções e métodos, promovendo a reutilização de código e a organização do desenvolvimento.
 
----
+## Estrutura do Repositório
 
-## Objetivo
+Os exercícios estão organizados por temas centrais abordados na disciplina:
 
-Este repositório foi criado com o propósito de:
-- **Praticar** conceitos fundamentais e avançados de Java.
-- **Documentar** minha evolução no aprendizado da linguagem.
-- **Compartilhar** soluções que possam ajudar outros estudantes ou entusiastas de Java.
-
----
-
-## Organização do Repositório
-
-Os exercícios estão organizados em pastas por temas ou conceitos específicos. Cada pasta contém:
-- Um arquivo `.java` com a solução do exercício.
-- Um breve comentário explicando o que o código faz.
-- Exemplos de entrada e saída, quando aplicável.
+```
+exercicios/
+├── basicos/             # Funções simples e entrada/saída de dados
+├── strings/             # Manipulação de strings e caracteres
+├── recursividade/       # Funções recursivas
+├── arrays/              # Vetores e matrizes
+├── poo/                 # Introdução à Programação Orientada a Objetos
+```

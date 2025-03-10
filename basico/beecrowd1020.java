@@ -12,13 +12,12 @@ public class Main {
         idade = idade % 365;
 
         // Calculando meses
-        int meses = idade / 30;  // Aproximação, pois meses têm um número variável de dias
+        int meses = idade / 30; 
         idade = idade % 30;
 
-        // Calculando dias restantes
+        // Calculando dias
         int dias = idade;
-        
-        // Exibindo resultado no formato exato
+    
         System.out.printf("%d ano(s)\n%d mes(es)\n%d dia(s)\n", anos, meses, dias);
         
         sc.close();

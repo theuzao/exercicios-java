@@ -1,2 +1,2 @@
-# Exercícios práticos de algoritmos em JAVA.
+Exercícios práticos de algoritmos em JAVA.
 
